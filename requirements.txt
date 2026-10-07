@@ -143,7 +143,7 @@ sniffio==1.3.1
 solara==1.47.0
 solara-server==1.47.0
 solara-ui==1.47.0
-soupsieve==2.7
+soupsieve==2.9
 stack-data==0.6.3
 starlette==0.46.2
 terminado==0.18.1
