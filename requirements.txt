@@ -149,7 +149,7 @@ starlette==0.46.2
 terminado==0.18.1
 threadpoolctl==3.6.0
 tinycss2==1.4.0
-tornado==6.5
+tornado==6.5.9
 tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1735661334605/work
 traitlets==5.14.3
 traittypes==0.2.1
