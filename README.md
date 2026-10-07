@@ -1,4 +1,4 @@
-# Future Coast Agent-Based Model (Mesa Implementation)
+# Future Coasts Agent-Based Model (Mesa Implementation)
 
 An agent-based model (ABM) for simulating coastal adaptation decisions under sea-level rise scenarios using the Mesa framework.
 
