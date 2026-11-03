@@ -135,7 +135,7 @@ scikit-learn==1.6.1
 scipy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1739790687553/work/dist/scipy-1.15.2-cp313-cp313-macosx_10_13_x86_64.whl#sha256=1813106576cfdd0d021a93bc254eab4176e303f73f4bca019a175e80b7082686
 seaborn==0.13.2
 Send2Trash==1.8.3
-setuptools==80.9.0
+setuptools==84.1.0
 shapely==2.1.1
 simplejson==3.20.1
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1733380938961/work
